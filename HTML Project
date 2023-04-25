@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage</title>
+        <style>
+
+                h1{
+
+                    outline-color: rgba(129, 117, 117, 0.986);
+
+                }
+
+        </style>
+    </head>
+    <body>
+            <h1>hi welcome</h1>
+
+    </body>
+</html>
